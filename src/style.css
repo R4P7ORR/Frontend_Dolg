@@ -1,0 +1,12 @@
+#operatorDiv{
+  padding: 1vh;
+  text-align: center;
+}
+body{
+  color: antiquewhite;
+  background-image: linear-gradient(black, rgb(76, 76, 151));
+  background-attachment: fixed;
+}
+b{
+  color: rgb(181, 169, 154);
+}
